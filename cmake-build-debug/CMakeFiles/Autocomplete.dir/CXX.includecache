@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tima/CLionProjects/Autocomplete/autocomplete.cpp
+autocomplete.hpp
+C:/Users/tima/CLionProjects/Autocomplete/autocomplete.hpp
+
+C:/Users/tima/CLionProjects/Autocomplete/autocomplete.hpp
+binary_search_deluxe.hpp
+C:/Users/tima/CLionProjects/Autocomplete/binary_search_deluxe.hpp
+algorithm
+-
+
+C:/Users/tima/CLionProjects/Autocomplete/binary_search_deluxe.hpp
+vector
+-
+term.hpp
+C:/Users/tima/CLionProjects/Autocomplete/term.hpp
+
+C:/Users/tima/CLionProjects/Autocomplete/term.hpp
+iostream
+-
+functional
+-
+
